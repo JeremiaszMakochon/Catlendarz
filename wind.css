@@ -1,0 +1,14 @@
+.flexbox {display: flex; flex-direction: row; justify-content: space-evenly;}
+.flexbox div{background-color: rgb(255, 70, 70); text-align: center; flex-wrap: wrap; width: 75px; height: 75px; padding: 25px; margin: 25px; border: thick double #32a1ce;;
+color: white; border-radius: 20px; background-size: cover; font-size: 200%;
+}
+body {margin-left: 20%; margin-right: 20%; background-image: url(dark-black-texture-with-beautiful-stars-vector.jpg);}
+header {border: thick double #32a1ce;; text-align: center; background-color: rgb(255, 70, 70); border-radius: 20px;}
+
+.div1:hover {background-image: url(cat1.jpg); font-size: 0px;}
+.div2:hover {background-image: url(cat2.jpg); font-size: 0px;}
+.div3:hover {background-image: url(cat3.gif); font-size: 0px;}
+.div4:hover {background-image: url(cat4.jpg); font-size: 0px;}
+.div5:hover {background-image: url(cat5.jpg); font-size: 0px;}
+.div6:hover {background-image: url(cat6.jpg); font-size: 0px;}
+.div25:hover {background-image: url(cat25.jpg); font-size: 0px;}
